@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>listConfigId</name>
+        <page display_value="Safety WS">59282a606e68e11080bbf389e935ce40</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-19 10:08:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>95282a609868e11003397ae498d86042</sys_id>
+        <sys_name>listConfigId</sys_name>
+        <sys_package display_value="Safety" source="x_654929_safety">a3e2a6e01b28e110c8c9ece4604bcbc3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">a3e2a6e01b28e110c8c9ece4604bcbc3</sys_scope>
+        <sys_update_name>sys_ux_page_property_95282a609868e11003397ae498d86042</sys_update_name>
+        <type>string</type>
+        <unique_name>x_654929_safety.59282a606e68e11080bbf389e935ce40.root.listConfigId</unique_name>
+        <value>92286a601b68e110c8c9ece4604bcbb2</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=95282a609868e11003397ae498d86042"/>
+</record_update>

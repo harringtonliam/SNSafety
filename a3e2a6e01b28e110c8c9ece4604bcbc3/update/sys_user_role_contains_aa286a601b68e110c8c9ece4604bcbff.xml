@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="x_654929_safety.safety_users" name="x_654929_safety.safety_users">46036ea81b28e110c8c9ece4604bcbca</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-19 10:08:27</sys_created_on>
+        <sys_id>aa286a601b68e110c8c9ece4604bcbff</sys_id>
+        <sys_name>canvas_user.x_654929_safety.safety_users</sys_name>
+        <sys_package display_value="Safety" source="x_654929_safety">a3e2a6e01b28e110c8c9ece4604bcbc3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">a3e2a6e01b28e110c8c9ece4604bcbc3</sys_scope>
+        <sys_update_name>sys_user_role_contains_aa286a601b68e110c8c9ece4604bcbff</sys_update_name>
+    </sys_user_role_contains>
+</record_update>

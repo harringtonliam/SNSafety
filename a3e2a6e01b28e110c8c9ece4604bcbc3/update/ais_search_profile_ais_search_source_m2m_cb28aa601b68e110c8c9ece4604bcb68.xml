@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="Safety WS search profile">51282a602d68e11020c79ff42d6f0d46</profile>
+        <search_source display_value="Issue">8f28aa601b68e110c8c9ece4604bcb65</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-19 10:08:29</sys_created_on>
+        <sys_id>cb28aa601b68e110c8c9ece4604bcb68</sys_id>
+        <sys_name>Safety WS search profile.Issue</sys_name>
+        <sys_package display_value="Safety" source="x_654929_safety">a3e2a6e01b28e110c8c9ece4604bcbc3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">a3e2a6e01b28e110c8c9ece4604bcbc3</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_cb28aa601b68e110c8c9ece4604bcb68</sys_update_name>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{ }</macroponent_config>
+        <screen display_value="Safety Home Page default">1ef857201b2ce110c8c9ece4604bcbda</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-19 13:41:42</sys_created_on>
+        <sys_id>d6f857201b2ce110c8c9ece4604bcbdd</sys_id>
+        <sys_name/>
+        <sys_package display_value="Safety" source="x_654929_safety">a3e2a6e01b28e110c8c9ece4604bcbc3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">a3e2a6e01b28e110c8c9ece4604bcbc3</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_d6f857201b2ce110c8c9ece4604bcbdd</sys_update_name>
+    </sys_uib_screen_test_values>
+</record_update>

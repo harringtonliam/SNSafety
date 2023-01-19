@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-19 15:20:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>759f67641b6ce110c8c9ece4604bcbb1</sys_id>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Safety" source="x_654929_safety">a3e2a6e01b28e110c8c9ece4604bcbc3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">a3e2a6e01b28e110c8c9ece4604bcbc3</sys_scope>
+        <sys_update_name>m2m_app_config_theme_759f67641b6ce110c8c9ece4604bcbb1</sys_update_name>
+        <theme display_value="Safety Theme">a86fe3641b6ce110c8c9ece4604bcb2b</theme>
+        <ux_app_configuration display_value="Safety Portal">7c471be81be8e110c8c9ece4604bcb71</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

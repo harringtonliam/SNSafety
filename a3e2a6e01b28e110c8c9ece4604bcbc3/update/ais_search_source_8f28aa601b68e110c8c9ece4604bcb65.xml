@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_source">
+    <ais_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <datasource display_value="">x_654929_safety_issue</datasource>
+        <name>Issue</name>
+        <sys_class_name>ais_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-19 10:08:29</sys_created_on>
+        <sys_id>8f28aa601b68e110c8c9ece4604bcb65</sys_id>
+        <sys_name>Issue</sys_name>
+        <sys_package display_value="Safety" source="x_654929_safety">a3e2a6e01b28e110c8c9ece4604bcbc3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">a3e2a6e01b28e110c8c9ece4604bcbc3</sys_scope>
+        <sys_update_name>ais_search_source_8f28aa601b68e110c8c9ece4604bcb65</sys_update_name>
+    </ais_search_source>
+</record_update>

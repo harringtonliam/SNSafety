@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>A default view for Safety WS generated</description>
+        <name>view</name>
+        <page display_value="Safety WS">59282a606e68e11080bbf389e935ce40</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-19 10:08:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>99282a609468e1101f40c64db8173043</sys_id>
+        <sys_name>view</sys_name>
+        <sys_package display_value="Safety" source="x_654929_safety">a3e2a6e01b28e110c8c9ece4604bcbc3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">a3e2a6e01b28e110c8c9ece4604bcbc3</sys_scope>
+        <sys_update_name>sys_ux_page_property_99282a609468e1101f40c64db8173043</sys_update_name>
+        <type>string</type>
+        <unique_name>x_654929_safety.59282a606e68e11080bbf389e935ce40.root.view</unique_name>
+        <value>Workspace-Safety-WS-0</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=99282a609468e1101f40c64db8173043"/>
+</record_update>
